@@ -1,0 +1,693 @@
+{
+ "meta": {
+  "titre": "Grille auto contrôle du 22/07/2026",
+  "version": "V08.2",
+  "onglet": "accès par branche",
+  "source": "Grille auto contrôle V8.2 du 22/07/2026"
+ },
+ "branches": [
+  {
+   "accord": "Accord secteur alimentaire du 19/09/2025",
+   "type": "Accord de branche",
+   "secteur": "Coopératives laitières",
+   "idcc": "7004/8435",
+   "taux": {
+    "16-20": {
+     "non": 60,
+     "oui": 70
+    },
+    "21-25": {
+     "non": 75,
+     "oui": 85
+    },
+    "26+": 100
+   },
+   "densite_max": 40,
+   "commentaire": "Plafond porté à 40 % pour certains publics",
+   "base_smc": false,
+   "reference": "Accord secteur alimentaire du 19/09/2025"
+  },
+  {
+   "accord": "Accord formation du 16/06/2022",
+   "type": "Accord de branche",
+   "secteur": "Bétail et viande",
+   "idcc": "7001",
+   "taux": {
+    "16-20": {
+     "non": 100,
+     "oui": 100
+    },
+    "21-25": {
+     "non": 100,
+     "oui": 100
+    },
+    "26+": 100
+   },
+   "densite_max": 40,
+   "commentaire": "Part de formation de 25 %, portée à 40 % sous conditions : se référer à « Accord formation du 16/06/2022 ».",
+   "base_smc": false,
+   "reference": "Accord formation du 16/06/2022"
+  },
+  {
+   "accord": "Avenant n°3 du 05/10/2015",
+   "type": "Accord de branche",
+   "secteur": "Boissons",
+   "idcc": "1513",
+   "taux": {
+    "16-20": {
+     "non": 60,
+     "oui": 70
+    },
+    "21-25": {
+     "non": 75,
+     "oui": 85
+    },
+    "26+": 100
+   },
+   "densite_max": 40,
+   "commentaire": "Part de formation de 25 %, portée à 40 % sous conditions : se référer à « Avenant n°3 du 05/10/2015 ».",
+   "base_smc": false,
+   "reference": "Avenant n°3 du 05/10/2015"
+  },
+  {
+   "accord": "",
+   "type": "Accord de branche",
+   "secteur": "Boulangerie, pâtisserie, œuf",
+   "idcc": "1747/3255",
+   "taux": {
+    "16-20": {
+     "non": 75,
+     "oui": 85
+    },
+    "21-25": {
+     "non": 75,
+     "oui": 85
+    },
+    "26+": 100
+   },
+   "densite_max": 40,
+   "commentaire": "Part de formation de 25 %, portée à 40 % sous conditions : se référer à « la convention collective de la branche (IDCC 1747/3255) ».",
+   "base_smc": false,
+   "reference": "la convention collective de la branche (IDCC 1747/3255)"
+  },
+  {
+   "accord": "Accord du 03/02/2016",
+   "type": "Accord de branche",
+   "secteur": "Conchyliculture",
+   "idcc": "7019",
+   "taux": {
+    "16-20": {
+     "non": 60,
+     "oui": 70
+    },
+    "21-25": {
+     "non": 75,
+     "oui": 80
+    },
+    "26+": 100
+   },
+   "densite_max": 50,
+   "commentaire": "25 %, 40 % ou 50 % selon CDD/CDI",
+   "base_smc": false,
+   "reference": "Accord du 03/02/2016"
+  },
+  {
+   "accord": "Accord du 25/03/2005 (avenant n°1 du 12/12/2011)",
+   "type": "Accord de branche",
+   "secteur": "Coopération 5 branches",
+   "idcc": "7002",
+   "taux": {
+    "16-20": {
+     "non": 65,
+     "oui": 80
+    },
+    "21-25": {
+     "non": 100,
+     "oui": 100
+    },
+    "26+": 100
+   },
+   "densite_max": 40,
+   "commentaire": "Part de formation de 25 %, portée à 40 % sous conditions : se référer à « Accord du 25/03/2005 (avenant n°1 du 12/12/2011) ».",
+   "base_smc": false,
+   "reference": "Accord du 25/03/2005 (avenant n°1 du 12/12/2011)"
+  },
+  {
+   "accord": "Accord du 20/12/1994 (avenant n°3 du 16/11/2004)",
+   "type": "Accord de branche",
+   "secteur": "Expéditeurs/exportateurs fruits et légumes",
+   "idcc": "1405",
+   "taux": {
+    "16-20": {
+     "non": 65,
+     "oui": 85
+    },
+    "21-25": {
+     "non": 75,
+     "oui": 85
+    },
+    "26+": 100
+   },
+   "densite_max": 25,
+   "commentaire": "25 %",
+   "base_smc": false,
+   "reference": "Accord du 20/12/1994 (avenant n°3 du 16/11/2004)"
+  },
+  {
+   "accord": "Accord du 10/03/2020",
+   "type": "Accord de branche",
+   "secteur": "Industries viandes",
+   "idcc": "1534",
+   "taux": {
+    "16-20": {
+     "non": 100,
+     "oui": 100
+    },
+    "21-25": {
+     "non": 100,
+     "oui": 100
+    },
+    "26+": 100
+   },
+   "densite_max": 40,
+   "commentaire": "Part de formation de 25 %, portée à 40 % sous conditions : se référer à « Accord du 10/03/2020 ».",
+   "base_smc": false,
+   "reference": "Accord du 10/03/2020"
+  },
+  {
+   "accord": "Accord du 11/10/2005",
+   "type": "Accord de branche",
+   "secteur": "Négoce agricole",
+   "idcc": "1077",
+   "taux": {
+    "16-20": {
+     "non": 85,
+     "oui": 85
+    },
+    "21-25": {
+     "non": 85,
+     "oui": 85
+    },
+    "26+": 100
+   },
+   "densite_max": 40,
+   "commentaire": "Part de formation de 25 %, portée à 40 % sous conditions : se référer à « Accord du 11/10/2005 ».",
+   "base_smc": false,
+   "reference": "Accord du 11/10/2005"
+  },
+  {
+   "accord": "Accord du 21/06/2005 (avenant n°6 du 02/07/2015)",
+   "type": "Accord de branche",
+   "secteur": "OCEL",
+   "idcc": "7027/7008",
+   "taux": {
+    "16-20": {
+     "non": 65,
+     "oui": 80
+    },
+    "21-25": {
+     "non": 100,
+     "oui": 100
+    },
+    "26+": 100
+   },
+   "densite_max": 40,
+   "commentaire": "Part de formation de 25 %, portée à 40 % sous conditions : se référer à « Accord du 21/06/2005 (avenant n°6 du 02/07/2015) ».",
+   "base_smc": false,
+   "reference": "Accord du 21/06/2005 (avenant n°6 du 02/07/2015)"
+  },
+  {
+   "accord": "Accord du 12/11/2015",
+   "type": "Accord de branche",
+   "secteur": "Vins, cidres, spiritueux",
+   "idcc": "0493/1384",
+   "taux": {
+    "16-20": {
+     "non": 65,
+     "oui": 75
+    },
+    "21-25": {
+     "non": 80,
+     "oui": 90
+    },
+    "26+": 100
+   },
+   "densite_max": 50,
+   "commentaire": "25 %, porté à 50 %",
+   "base_smc": false,
+   "reference": "Accord du 12/11/2015"
+  },
+  {
+   "accord": "Avenant du 30/09/2015",
+   "type": "Accord de branche",
+   "secteur": "Volaille",
+   "idcc": "1938",
+   "taux": {
+    "16-20": {
+     "non": 80,
+     "oui": 80
+    },
+    "21-25": {
+     "non": 80,
+     "oui": 80
+    },
+    "26+": 100
+   },
+   "densite_max": 40,
+   "commentaire": "Part de formation de 25 %, portée à 40 % sous conditions : se référer à « Avenant du 30/09/2015 ».",
+   "base_smc": false,
+   "reference": "Avenant du 30/09/2015"
+  },
+  {
+   "accord": "Accord secteur alimentaire du 01/12/2020 (jusqu'au 31/12/2025)",
+   "type": "Accord de branche",
+   "secteur": "Industries et exploitations frigorifiques",
+   "idcc": "0200",
+   "taux": {
+    "16-20": {
+     "non": null,
+     "oui": null
+    },
+    "21-25": {
+     "non": null,
+     "oui": null
+    },
+    "26+": null
+   },
+   "densite_max": null,
+   "commentaire": "Relève de l'accord secteur alimentaire du 01/12/2020 jusqu'au 31/12/2025 : pour un contrat signé avant cette date, se référer à « Accord secteur alimentaire du 01/12/2020 ». Taux et densité non renseignés dans la grille.",
+   "base_smc": false,
+   "reference": "Accord secteur alimentaire du 01/12/2020 (jusqu'au 31/12/2025)"
+  },
+  {
+   "accord": "",
+   "type": "Légal",
+   "secteur": "Services associés à la coopération agricole",
+   "idcc": "9",
+   "taux": {
+    "16-20": {
+     "non": 55,
+     "oui": 65
+    },
+    "21-25": {
+     "non": 70,
+     "oui": 80
+    },
+    "26+": 100
+   },
+   "densite_max": 25,
+   "commentaire": "",
+   "base_smc": false,
+   "reference": "la convention collective de la branche (IDCC 9)"
+  },
+  {
+   "accord": "",
+   "type": "Légal",
+   "secteur": "Hippodromes",
+   "idcc": "119 (8115/5627)",
+   "taux": {
+    "16-20": {
+     "non": 55,
+     "oui": 65
+    },
+    "21-25": {
+     "non": 70,
+     "oui": 80
+    },
+    "26+": 100
+   },
+   "densite_max": 25,
+   "commentaire": "",
+   "base_smc": false,
+   "reference": "la convention collective de la branche (IDCC 119 (8115/5627))"
+  },
+  {
+   "accord": "",
+   "type": "Légal",
+   "secteur": "Pêche professionnelle maritime",
+   "idcc": "104 (5619)",
+   "taux": {
+    "16-20": {
+     "non": 55,
+     "oui": 65
+    },
+    "21-25": {
+     "non": 70,
+     "oui": 80
+    },
+    "26+": 100
+   },
+   "densite_max": 40,
+   "commentaire": "25 % ou 40 % selon conditions de formation interne/externe",
+   "base_smc": false,
+   "reference": "la convention collective de la branche (IDCC 104 (5619))"
+  },
+  {
+   "accord": "",
+   "type": "Légal",
+   "secteur": "Production agricole et CUMA",
+   "idcc": "107",
+   "taux": {
+    "16-20": {
+     "non": 55,
+     "oui": 65
+    },
+    "21-25": {
+     "non": 70,
+     "oui": 80
+    },
+    "26+": 100
+   },
+   "densite_max": 50,
+   "commentaire": "Entre 15 % et 30 % de la durée, selon conditions",
+   "base_smc": false,
+   "reference": "la convention collective de la branche (IDCC 107)"
+  },
+  {
+   "accord": "",
+   "type": "Légal",
+   "secteur": "Propriétaires forestiers",
+   "idcc": "114",
+   "taux": {
+    "16-20": {
+     "non": 55,
+     "oui": 65
+    },
+    "21-25": {
+     "non": 70,
+     "oui": 80
+    },
+    "26+": 100
+   },
+   "densite_max": 25,
+   "commentaire": "",
+   "base_smc": false,
+   "reference": "la convention collective de la branche (IDCC 114)"
+  },
+  {
+   "accord": "",
+   "type": "Légal",
+   "secteur": "Coopération maritime",
+   "idcc": "106",
+   "taux": {
+    "16-20": {
+     "non": 55,
+     "oui": 65
+    },
+    "21-25": {
+     "non": 70,
+     "oui": 80
+    },
+    "26+": 100
+   },
+   "densite_max": 25,
+   "commentaire": "25 %",
+   "base_smc": false,
+   "reference": "la convention collective de la branche (IDCC 106)"
+  },
+  {
+   "accord": "",
+   "type": "Légal",
+   "secteur": "Sucreries et distilleries DROM",
+   "idcc": "132",
+   "taux": {
+    "16-20": {
+     "non": 55,
+     "oui": 65
+    },
+    "21-25": {
+     "non": 70,
+     "oui": 80
+    },
+    "26+": 100
+   },
+   "densite_max": 25,
+   "commentaire": "",
+   "base_smc": false,
+   "reference": "la convention collective de la branche (IDCC 132)"
+  },
+  {
+   "accord": "",
+   "type": "Conventionnel",
+   "secteur": "Entreprises du paysage",
+   "idcc": "121",
+   "taux": {
+    "16-20": {
+     "non": 60,
+     "oui": 70
+    },
+    "21-25": {
+     "non": 75,
+     "oui": 85
+    },
+    "26+": 100
+   },
+   "densite_max": 50,
+   "commentaire": "25 %, porté à 50 % en CDD ; 1600 h en CDI",
+   "base_smc": false,
+   "reference": "la convention collective de la branche (IDCC 121)"
+  },
+  {
+   "accord": "",
+   "type": "Conventionnel",
+   "secteur": "Personnel des activités hippiques",
+   "idcc": "116 (7026/7013, 7014)",
+   "taux": {
+    "16-20": {
+     "non": 100,
+     "oui": 100
+    },
+    "21-25": {
+     "non": 100,
+     "oui": 100
+    },
+    "26+": 100
+   },
+   "densite_max": 30,
+   "commentaire": "Contrôle établi sur la base du SMC **",
+   "base_smc": true,
+   "reference": "la convention collective de la branche (IDCC 116 (7026/7013, 7014))"
+  },
+  {
+   "accord": "",
+   "type": "Branches sans taux dans la grille",
+   "secteur": "Industries laitières",
+   "idcc": "",
+   "taux": {
+    "16-20": {
+     "non": null,
+     "oui": null
+    },
+    "21-25": {
+     "non": null,
+     "oui": null
+    },
+    "26+": null
+   },
+   "densite_max": null,
+   "commentaire": "Aucun taux ni densité dans la grille pour cette branche : se référer à « la convention collective de la branche ».",
+   "base_smc": false,
+   "reference": "la convention collective de la branche"
+  },
+  {
+   "accord": "",
+   "type": "Branches sans taux dans la grille",
+   "secteur": "Industries sucrières",
+   "idcc": "",
+   "taux": {
+    "16-20": {
+     "non": null,
+     "oui": null
+    },
+    "21-25": {
+     "non": null,
+     "oui": null
+    },
+    "26+": null
+   },
+   "densite_max": null,
+   "commentaire": "Aucun taux ni densité dans la grille pour cette branche : se référer à « la convention collective de la branche ».",
+   "base_smc": false,
+   "reference": "la convention collective de la branche"
+  },
+  {
+   "accord": "",
+   "type": "Branches sans taux dans la grille",
+   "secteur": "Industries charcutières",
+   "idcc": "",
+   "taux": {
+    "16-20": {
+     "non": null,
+     "oui": null
+    },
+    "21-25": {
+     "non": null,
+     "oui": null
+    },
+    "26+": null
+   },
+   "densite_max": null,
+   "commentaire": "Aucun taux ni densité dans la grille pour cette branche : se référer à « la convention collective de la branche ».",
+   "base_smc": false,
+   "reference": "la convention collective de la branche"
+  },
+  {
+   "accord": "",
+   "type": "Branches sans taux dans la grille",
+   "secteur": "Cerfrance",
+   "idcc": "",
+   "taux": {
+    "16-20": {
+     "non": null,
+     "oui": null
+    },
+    "21-25": {
+     "non": null,
+     "oui": null
+    },
+    "26+": null
+   },
+   "densite_max": null,
+   "commentaire": "Aucun taux ni densité dans la grille pour cette branche : se référer à « la convention collective de la branche ».",
+   "base_smc": false,
+   "reference": "la convention collective de la branche"
+  },
+  {
+   "accord": "",
+   "type": "Branches sans taux dans la grille",
+   "secteur": "Parcs zoologiques",
+   "idcc": "",
+   "taux": {
+    "16-20": {
+     "non": null,
+     "oui": null
+    },
+    "21-25": {
+     "non": null,
+     "oui": null
+    },
+    "26+": null
+   },
+   "densite_max": null,
+   "commentaire": "Aucun taux ni densité dans la grille pour cette branche : se référer à « la convention collective de la branche ».",
+   "base_smc": false,
+   "reference": "la convention collective de la branche"
+  },
+  {
+   "accord": "",
+   "type": "Branches sans taux dans la grille",
+   "secteur": "Crédit agricole",
+   "idcc": "",
+   "taux": {
+    "16-20": {
+     "non": null,
+     "oui": null
+    },
+    "21-25": {
+     "non": null,
+     "oui": null
+    },
+    "26+": null
+   },
+   "densite_max": null,
+   "commentaire": "Aucun taux ni densité dans la grille pour cette branche : se référer à « la convention collective de la branche ».",
+   "base_smc": false,
+   "reference": "la convention collective de la branche"
+  },
+  {
+   "accord": "",
+   "type": "Branches sans taux dans la grille",
+   "secteur": "MSA",
+   "idcc": "",
+   "taux": {
+    "16-20": {
+     "non": null,
+     "oui": null
+    },
+    "21-25": {
+     "non": null,
+     "oui": null
+    },
+    "26+": null
+   },
+   "densite_max": null,
+   "commentaire": "Aucun taux ni densité dans la grille pour cette branche : se référer à « la convention collective de la branche ».",
+   "base_smc": false,
+   "reference": "la convention collective de la branche"
+  },
+  {
+   "accord": "",
+   "type": "Branches sans taux dans la grille",
+   "secteur": "Groupama",
+   "idcc": "",
+   "taux": {
+    "16-20": {
+     "non": null,
+     "oui": null
+    },
+    "21-25": {
+     "non": null,
+     "oui": null
+    },
+    "26+": null
+   },
+   "densite_max": null,
+   "commentaire": "Aucun taux ni densité dans la grille pour cette branche : se référer à « la convention collective de la branche ».",
+   "base_smc": false,
+   "reference": "la convention collective de la branche"
+  },
+  {
+   "accord": "",
+   "type": "Branches sans taux dans la grille",
+   "secteur": "ONF",
+   "idcc": "",
+   "taux": {
+    "16-20": {
+     "non": null,
+     "oui": null
+    },
+    "21-25": {
+     "non": null,
+     "oui": null
+    },
+    "26+": null
+   },
+   "densite_max": null,
+   "commentaire": "Aucun taux ni densité dans la grille pour cette branche : se référer à « la convention collective de la branche ».",
+   "base_smc": false,
+   "reference": "la convention collective de la branche"
+  },
+  {
+   "accord": "",
+   "type": "Branches sans taux dans la grille",
+   "secteur": "Entreprises équestres",
+   "idcc": "",
+   "taux": {
+    "16-20": {
+     "non": null,
+     "oui": null
+    },
+    "21-25": {
+     "non": null,
+     "oui": null
+    },
+    "26+": null
+   },
+   "densite_max": null,
+   "commentaire": "Aucun taux ni densité dans la grille pour cette branche : se référer à « la convention collective de la branche ».",
+   "base_smc": false,
+   "reference": "la convention collective de la branche"
+  }
+ ],
+ "notes": [
+  "* Passage de la part de formation de 25 % à 40 % : se référer à l'accord de branche cité pour chaque branche.",
+  "** Personnel des activités hippiques : les densités à appliquer sont fonction de la convention collective nationale de la branche ; le pourcentage maximal est paramétré dans OPSI."
+ ],
+ "publics_prioritaires": [
+  "Jeunes de 16 à 25 ans n'ayant pas validé un second cycle de l'enseignement secondaire et non titulaires d'un diplôme technologique ou professionnel",
+  "Bénéficiaires du RSA, de l'ASS ou de l'AAH",
+  "Personnes ayant bénéficié d'un Contrat Unique d'Insertion",
+  "Jeunes de 16 à 25 ans et demandeurs d'emploi de 26 ans et plus inscrits depuis plus d'un an",
+  "Publics accompagnés par un GEIQ"
+ ]
+}

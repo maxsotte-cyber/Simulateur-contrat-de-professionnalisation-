@@ -1,0 +1,9 @@
+# Grille téléchargée depuis Google Drive
+grille_auto_controle.xlsx
+*.xlsx
+
+# Python et éditeurs
+__pycache__/
+venv/
+.venv/
+.idea/
